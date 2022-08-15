@@ -9,5 +9,4 @@ def ent(a):
   return r
 
 a=int(input("Ingrese un número: "))
-primeros=ent(a)
-print(primeros)
+print("La suma de los primeros N enteros es: ",ent(a))
